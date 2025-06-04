@@ -24,5 +24,8 @@
   babamandaa:
   - rscdel: Numina no longer has invocations. (This means your character will no longer
       automatically say something when using Numina spells.)
+  buffyuwu:
+  - server: commented out the roundend report until we put something meaningful in
+      there
   confusedhurricane:
   - rscadd: Adds the Pyxis Medstation to St John's Community Clinic
