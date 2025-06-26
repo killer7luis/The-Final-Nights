@@ -36,3 +36,4 @@
 2025-06-26:
   XeonMations:
   - bugfix: Fixed our runtimes being hidden.
+  - bugfix: Fixed jobs closing whenever someone cryod.
