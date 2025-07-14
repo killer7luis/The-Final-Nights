@@ -1,0 +1,4 @@
+author: "Somniworld"
+delete-after: True
+changes:
+  - qol: "Corax may now use the \"howl\" gift without actually howling. They will properly \"caw\" instead."
