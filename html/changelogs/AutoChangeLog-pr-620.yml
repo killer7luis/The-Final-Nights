@@ -1,0 +1,4 @@
+author: "Somniworld"
+delete-after: True
+changes:
+  - bugfix: "Rage/Blood healing, as well as bone gel, will now fix your limping status effect correctly!"
