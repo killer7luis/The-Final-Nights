@@ -1,0 +1,4 @@
+author: "chazzyjazzy"
+delete-after: True
+changes:
+  - bugfix: "fixed meleemods not being applied to weapons besides completely unarmed"
