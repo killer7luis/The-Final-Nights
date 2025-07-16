@@ -70,5 +70,7 @@
       Ports PR#31 from ApocryphaXIII.
   chazzyjazzy:
   - bugfix: fixed meleemods not being applied to weapons besides completely unarmed
+  - qol: catwalks in the sewers and across rooftops now make catwalk-appropriate metal
+      footstep sounds
   darkincarnate:
   - rscadd: cane in loadout
