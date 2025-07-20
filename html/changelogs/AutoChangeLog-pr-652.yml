@@ -1,0 +1,4 @@
+author: "Dusk-a"
+delete-after: True
+changes:
+  - image: "Reverted the Gargoyle legs to the old version"
