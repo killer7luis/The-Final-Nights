@@ -1,0 +1,5 @@
+author: "AlmostLikeClockwork"
+delete-after: True
+changes:
+  - rscadd: "Adds 45acp to cargo orders for 400"
+  - bugfix: "fixed the price for 45acp at gunstores, from 2100 to 700"
