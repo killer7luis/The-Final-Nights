@@ -18,3 +18,6 @@
   - bugfix: Werewolf armor has been fixed, so it will actually reduce incoming brute
       damage
   - bugfix: The warrior archetype works for non-Homid forms again
+2025-08-07:
+  XeonMations:
+  - bugfix: TGUI chat now auto-focuses on creation.
