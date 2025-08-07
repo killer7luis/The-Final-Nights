@@ -19,5 +19,8 @@
       damage
   - bugfix: The warrior archetype works for non-Homid forms again
 2025-08-07:
+  Marshmellow105:
+  - bugfix: a bug with a sewer dungeon is amended and more bandits should spawn
+  - bugfix: minor plane var fixes in the library and nostown
   XeonMations:
   - bugfix: TGUI chat now auto-focuses on creation.
