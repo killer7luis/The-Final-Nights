@@ -1,0 +1,4 @@
+author: "magicianofwands"
+delete-after: True
+changes:
+  - bugfix: "Setites no longer crawl like snails around lights and have a more appropriate bane"
