@@ -50,3 +50,5 @@
   chazzyjazzy:
   - bugfix: Cappadocian, Nosferatu, Kiasyd, and Gargoyle's slim and fat body models
       now correctly work and are no longer invisible
+  - bugfix: Fixed Dominate 1's (Command) case sensitivity problem causing commands
+      to not have their effects apply
