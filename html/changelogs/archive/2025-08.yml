@@ -44,3 +44,9 @@
   magicianofwands:
   - bugfix: Setites no longer crawl like snails around lights and have a more appropriate
       bane
+2025-08-11:
+  AlmostLikeClockwork:
+  - rscadd: Adds mags to the gio bank & warehouse
+  chazzyjazzy:
+  - bugfix: Cappadocian, Nosferatu, Kiasyd, and Gargoyle's slim and fat body models
+      now correctly work and are no longer invisible
