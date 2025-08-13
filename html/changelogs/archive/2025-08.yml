@@ -55,6 +55,9 @@
   darkincarnate:
   - rscadd: giovanni second/third floor/basement ritual room
 2025-08-13:
+  chazzyjazzy:
+  - bugfix: using *slap on a table now correctly slams the table and plays the noise,
+      previously wasnt working
   darkincarnate:
   - rscadd: pd rechargers, gas masks to endron
   - bugfix: giovanni misplaced lights
