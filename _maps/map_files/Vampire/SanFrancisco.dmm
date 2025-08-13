@@ -6217,6 +6217,25 @@
 /obj/effect/decal/cleanable/confetti,
 /turf/open/floor/light,
 /area/vtm/interior/strip)
+"bGZ" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/bottle/wine{
+	pixel_y = 8
+	},
+/obj/item/reagent_containers/food/drinks/bottle/wine{
+	pixel_y = 10;
+	pixel_x = 8
+	},
+/obj/item/food/grown/berries{
+	pixel_y = 6;
+	pixel_x = 15
+	},
+/obj/item/food/grown/harebell{
+	pixel_y = 7;
+	pixel_x = -7
+	},
+/turf/open/floor/plating/woodfancy,
+/area/vtm/interior/giovanni)
 "bHa" = (
 /obj/effect/decal/rugs,
 /obj/effect/turf_decal/siding/white{
@@ -9582,9 +9601,6 @@
 /obj/item/food/grown/harebell{
 	pixel_y = 7;
 	pixel_x = 10
-	},
-/obj/machinery/light/prince{
-	dir = 1
 	},
 /obj/effect/turf_decal/siding/wood{
 	color = "#503e28";
@@ -27438,6 +27454,14 @@
 	color = "#636363"
 	},
 /obj/structure/table,
+/obj/machinery/recharger{
+	pixel_y = 5;
+	pixel_x = 6
+	},
+/obj/machinery/recharger{
+	pixel_y = 5;
+	pixel_x = -5
+	},
 /turf/closed/wall/vampwall/market/low,
 /area/vtm/interior/police/upstairs)
 "hiV" = (
@@ -33701,6 +33725,18 @@
 /obj/item/clothing/gloves/vampire/latex,
 /obj/item/clothing/gloves/vampire/latex,
 /obj/item/storage/box/masks,
+/obj/item/clothing/mask/gas/explorer{
+	name = "endron gas mask"
+	},
+/obj/item/clothing/mask/gas/explorer{
+	name = "endron gas mask"
+	},
+/obj/item/clothing/mask/gas/explorer{
+	name = "endron gas mask"
+	},
+/obj/item/clothing/mask/gas/explorer{
+	name = "endron gas mask"
+	},
 /turf/open/floor/plating/circled,
 /area/vtm/interior/wyrm_corrupted)
 "iOb" = (
@@ -187858,7 +187894,7 @@ gxB
 eTw
 nIQ
 nIQ
-fVy
+bGZ
 oSl
 ijU
 eUP
