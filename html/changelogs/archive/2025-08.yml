@@ -54,3 +54,7 @@
       to not have their effects apply
   darkincarnate:
   - rscadd: giovanni second/third floor/basement ritual room
+2025-08-13:
+  darkincarnate:
+  - rscadd: pd rechargers, gas masks to endron
+  - bugfix: giovanni misplaced lights
