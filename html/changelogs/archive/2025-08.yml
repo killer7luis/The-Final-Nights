@@ -58,3 +58,5 @@
   darkincarnate:
   - rscadd: pd rechargers, gas masks to endron
   - bugfix: giovanni misplaced lights
+  tzui5020:
+  - bugfix: Makes it harder to detect if peeps are Vampires when using Pliers.

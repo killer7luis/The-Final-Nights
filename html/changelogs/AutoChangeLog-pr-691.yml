@@ -1,4 +1,0 @@
-author: "tzui5020"
-delete-after: True
-changes:
-  - bugfix: "Makes it harder to detect if peeps are Vampires when using Pliers."
