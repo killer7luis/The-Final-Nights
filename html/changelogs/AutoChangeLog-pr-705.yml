@@ -1,0 +1,4 @@
+author: "SoreYew"
+delete-after: True
+changes:
+  - balance: "Bumps harpy to three active players."
