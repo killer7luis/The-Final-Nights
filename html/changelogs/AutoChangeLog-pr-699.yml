@@ -1,0 +1,8 @@
+author: "AlmostLikeClockwork"
+delete-after: True
+changes:
+  - rscadd: "~~Adds a spas to the Sheriff's closet, with mags and shells~~ Adds a McLusky to the Sheriff's closet, with mags and a box"
+  - rscadd: "Adds a renamed bitcoin miner to the Prince's office"
+  - rscadd: "Adds rails to the roof garden"
+  - rscadd: "Adds silver ammo to the secure camarilla armoury"
+  - rscdel: "Removed the silver from the anarch base"
