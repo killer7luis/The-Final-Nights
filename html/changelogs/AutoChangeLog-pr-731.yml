@@ -1,0 +1,4 @@
+author: "Squagg"
+delete-after: True
+changes:
+  - rscadd: "adds salubri and salubri warrior as playable clans for warehouse"
