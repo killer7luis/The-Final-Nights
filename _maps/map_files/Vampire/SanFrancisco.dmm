@@ -17481,6 +17481,11 @@
 	},
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/baali)
+"eGt" = (
+/obj/effect/turf_decal/siding/wideplating/dark/corner,
+/obj/structure/closet/boxinggloves,
+/turf/open/floor/plating/parquetry/old,
+/area/vtm/anarch)
 "eGu" = (
 /obj/effect/decal/bordur{
 	dir = 6
@@ -171361,7 +171366,7 @@ hZi
 hZi
 hZi
 ivd
-hEB
+eGt
 jOc
 jOc
 jOc
