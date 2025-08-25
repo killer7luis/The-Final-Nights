@@ -124,6 +124,7 @@
   AlmostLikeClockwork:
   - rscadd: Added increasing skill modifiers to potence tackle, making it easier and
       easier to land better tackles
+  - rscadd: each level of celerity now gives dex, scales
   Kolibri-B:
   - rscadd: Added a button for lowering path score.
   XeonMations:
