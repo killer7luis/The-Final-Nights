@@ -123,3 +123,5 @@
 2025-08-25:
   XeonMations:
   - bugfix: Fixed a couple of TGUI related runtimes.
+  - balance: molotvs now explode after 10s of being lit
+  - refactor: refactored molotov code
