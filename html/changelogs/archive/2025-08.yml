@@ -169,3 +169,6 @@
 2025-08-30:
   XeonMations:
   - bugfix: Fixed a paper related runtime.
+  bomby, thatguythere03:
+  - rscadd: new SFPD outfit variations
+  - bugfix: added bodytype sprites for police fatigues
