@@ -178,3 +178,6 @@
   SoreYew:
   - rscadd: third taxi to the hub
   - bugfix: taxi spawning with their car
+  XeonMations:
+  - refactor: Refactored the way the masquerade system works to be more RP friendly
+      and more brutal.
