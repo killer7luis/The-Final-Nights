@@ -78,3 +78,9 @@
 #define TRAIT_MASQUERADE_VIOLATING_FACE "masquerade_violating_face"
 // If the trait owner knows thaumaturgical rituals.
 #define TRAIT_THAUMATURGY_KNOWLEDGE "thaumaturgy_knowledge"
+/// If the user can't frenzy. Such as thinbloods
+#define TRAIT_NO_FRENZY "no_frenzy"
+/// If the user doesn't burn up in the sun.
+#define TRAIT_NO_SUN_ASHING "no_sun_ashing"
+/// Double vitae cost for abilities. Thinbloods for example
+#define TRAIT_DOUBLE_VITAE_COST "double_vitae"
