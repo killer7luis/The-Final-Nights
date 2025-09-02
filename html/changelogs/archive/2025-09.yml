@@ -30,3 +30,8 @@
   - rscdel: Removed Archetypes from the game.
   chazzyjazzy:
   - bugfix: discipline teaching should hopefully now function again
+  darkincarnate:
+  - rscadd: tzim ghouled dog room, coffins+surgery room in basement, ballroom third
+      floor, maid/butler uniforms, private meeting room. moved the basement entrance
+      out of sight
+  - bugfix: gio bar tables fixed
