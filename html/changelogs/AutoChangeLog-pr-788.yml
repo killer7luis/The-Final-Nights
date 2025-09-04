@@ -1,5 +1,0 @@
-author: "Kolibri-B"
-delete-after: True
-changes:
-  - rscadd: "Added a +1 success bonus to nat 10 rolls"
-  - balance: "Rebalances the dice rolling system slightly"
