@@ -14211,6 +14211,7 @@
 	dir = 4
 	},
 /obj/structure/table/wood,
+/obj/item/ammo_box/vampire/c12g/silver,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/anarch/basement)
 "dIZ" = (
@@ -15625,9 +15626,6 @@
 	dir = 10;
 	color = "#636363"
 	},
-/obj/machinery/light/red{
-	pixel_y = 32
-	},
 /turf/open/floor/plating/toilet{
 	color = "#919191"
 	},
@@ -16356,7 +16354,14 @@
 	color = "#636363"
 	},
 /obj/structure/table,
-/obj/item/food/vampire/donut,
+/obj/machinery/recharger{
+	pixel_y = 5;
+	pixel_x = -5
+	},
+/obj/machinery/recharger{
+	pixel_y = 5;
+	pixel_x = 6
+	},
 /turf/closed/wall/vampwall/market/low,
 /area/vtm/interior/police/upstairs)
 "eml" = (
@@ -51632,20 +51637,24 @@
 /turf/open/floor/plating/industrial,
 /area/vtm/interior/nosferatu_office)
 "mZf" = (
-/obj/structure/filingcabinet/chestdrawer/wheeled{
-	pixel_x = -5
-	},
-/obj/item/kirbyplants{
-	icon_state = "plant3";
-	pixel_y = -4;
-	pixel_x = 10
+/obj/machinery/light/red{
+	pixel_y = 32
 	},
 /obj/effect/turf_decal/siding/white{
-	dir = 4;
+	dir = 8;
 	color = "#636363"
 	},
+/obj/structure/closet/secure_closet/weapons{
+	pixel_y = 10
+	},
+/obj/item/ammo_box/vampire/c12g/incap,
+/obj/item/ammo_box/vampire/c12g/incap,
+/obj/item/ammo_box/vampire/c12g/incap,
+/obj/item/ammo_box/vampire/c12g/incap,
+/obj/item/gun/ballistic/shotgun/vampire,
+/obj/item/gun/ballistic/shotgun/vampire,
 /turf/open/floor/plating/toilet{
-	color = "#919191"
+	color = "#636363"
 	},
 /area/vtm/interior/police/upstairs)
 "mZh" = (
@@ -57211,6 +57220,7 @@
 	pixel_x = -16;
 	pixel_y = 10
 	},
+/obj/item/ammo_box/vampire/c545/silver,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/anarch/basement)
 "opE" = (
@@ -64918,15 +64928,20 @@
 /area/vtm/sewer/nosferatu_warren)
 "qkT" = (
 /obj/effect/turf_decal/siding/white{
-	dir = 8;
+	dir = 4;
 	color = "#636363"
 	},
-/obj/effect/decal/litter{
-	pixel_x = 5;
-	pixel_y = 3
+/obj/structure/closet/secure_closet/weapons{
+	pixel_y = 10
 	},
+/obj/item/ammo_box/vampire/c12g/rubber,
+/obj/item/ammo_box/vampire/c12g/rubber,
+/obj/item/ammo_box/vampire/c12g/rubber,
+/obj/item/ammo_box/vampire/c12g/rubber,
+/obj/item/gun/ballistic/shotgun/vampire,
+/obj/item/gun/ballistic/shotgun/vampire,
 /turf/open/floor/plating/toilet{
-	color = "#919191"
+	color = "#636363"
 	},
 /area/vtm/interior/police/upstairs)
 "qkU" = (
@@ -70828,16 +70843,7 @@
 	dir = 8;
 	color = "#636363"
 	},
-/obj/structure/table,
-/obj/machinery/recharger{
-	pixel_y = 5;
-	pixel_x = 6
-	},
-/obj/machinery/recharger{
-	pixel_y = 5;
-	pixel_x = -5
-	},
-/turf/closed/wall/vampwall/market/low,
+/turf/closed/wall/vampwall/market,
 /area/vtm/interior/police/upstairs)
 "rLG" = (
 /obj/fusebox/transformer,
@@ -192459,8 +192465,8 @@ uKw
 jRo
 jOr
 cNS
-mZf
 jRo
+qkT
 dmk
 omE
 uTr
@@ -192661,8 +192667,8 @@ cRA
 jRo
 mJz
 mJz
-mJz
 jti
+mJz
 mJz
 mJz
 wdV
@@ -192863,8 +192869,8 @@ cRA
 jRo
 iVB
 qzs
-qkT
 jRo
+mZf
 ecj
 mJz
 oCf
