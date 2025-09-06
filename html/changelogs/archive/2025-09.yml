@@ -70,3 +70,8 @@
   - map: Adds new less-lethals to the PD, 5.45mm and12g silver to the Anarchs, and
       illegal vendor
   - bugfix: Axe Gang can open their doors now
+  WhereAmO:
+  - rscadd: Unliving Hive quirk, with some visible text for having bugs on your person
+      and a small amount of damage over time.
+  - rscadd: Some new insect themed summons for Animalism, with the right quirk.
+  - bugfix: WOD13 specific cockroaches now have their sprites back
