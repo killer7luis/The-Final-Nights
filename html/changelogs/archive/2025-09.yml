@@ -92,3 +92,7 @@
   - rscadd: additional phrasing to doctor v duty text
   - balance: Rebalances kindred (and kj) role availability in Camarilla controlled
       roles
+2025-09-09:
+  chazzyjazzy:
+  - bugfix: removes an exploit where injecting a cigarette with vitae allows you to
+      gain alot of blood.
