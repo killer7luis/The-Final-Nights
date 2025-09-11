@@ -115,3 +115,6 @@
   chazzyjazzy:
   - bugfix: removes an exploit where injecting a cigarette with vitae allows you to
       gain alot of blood.
+2025-09-11:
+  XeonMations:
+  - map: Fixed a lot of general miscellaneous things on the map.
