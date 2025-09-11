@@ -1,0 +1,6 @@
+author: "Raptorian1"
+delete-after: True
+changes:
+  - rscdel: "Removed things"
+  - qol: "quality of life changes"
+  - map: "mapping changes"
