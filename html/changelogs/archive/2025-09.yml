@@ -127,3 +127,8 @@
   darkincarnate:
   - rscadd: white heels, different shoes for endron
   - qol: tower employee timelock removed, garou added to cargo tech
+2025-09-12:
+  Kolibri-B:
+  - rscadd: Changes Temporis to be more TTRPG-accurate
+  - balance: Changes Temporis to be more TTRPG-accurate
+  - refactor: Refactors part of Temporis code
