@@ -1,0 +1,5 @@
+author: "Knightscholar"
+delete-after: True
+changes:
+  - rscadd: "Added new emotes that can be done with *Say"
+  - rscadd: "Added hand kissing to *kiss"
