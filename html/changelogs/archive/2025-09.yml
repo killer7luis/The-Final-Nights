@@ -137,6 +137,8 @@
   - rscadd: Changes Temporis to be more TTRPG-accurate
   - balance: Changes Temporis to be more TTRPG-accurate
   - refactor: Refactors part of Temporis code
+  XeonMations:
+  - bugfix: Fixed paintings not saving at roundend
   chazzyjazzy:
   - bugfix: one player can no longer bring the global masquerade from 20 to 0 ending
       the round.
