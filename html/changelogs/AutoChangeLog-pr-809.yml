@@ -1,0 +1,5 @@
+author: "chazzyjazzy"
+delete-after: True
+changes:
+  - bugfix: "one player can no longer bring the global masquerade from 20 to 0 ending the round."
+  - bugfix: "the bloodhunt skull can once again fix breaches from previous rounds"
