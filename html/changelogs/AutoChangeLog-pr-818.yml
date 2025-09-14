@@ -1,0 +1,4 @@
+author: "SoreYew"
+delete-after: True
+changes:
+  - refactor: "Makes Sabbat Base an Interior Space"
