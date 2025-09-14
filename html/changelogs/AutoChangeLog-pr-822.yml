@@ -1,0 +1,5 @@
+author: "chazzyjazzy"
+delete-after: True
+changes:
+  - balance: "Reduces the effects of concussions as well as allows bloodheal to completely cure the concussive effects."
+  - balance: "The Sabbat Shovel no longer causes the emote \"collapse\" which extended the stun from 3 seconds to about 8 seconds, an unintended effect."
