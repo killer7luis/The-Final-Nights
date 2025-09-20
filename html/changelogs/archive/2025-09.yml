@@ -211,5 +211,7 @@
       object
   - qol: makes it possible to use blood packs like a container for recipes
   - spellcheck: typo in recipe
+  - balance: Makes illegal identity a +2 flaw
+  - bugfix: fixes pathing for .45acp warehouse buy
   chazzyjazzy:
   - bugfix: stacking pancakes no longer causes an error sprite
