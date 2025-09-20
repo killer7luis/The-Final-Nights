@@ -1,6 +1,0 @@
-author: "SoreYew"
-delete-after: True
-changes:
-  - qol: "changes typhons brew to just need 30u of beer instead of a specific beer object"
-  - qol: "makes it possible to use blood packs like a container for recipes"
-  - spellcheck: "typo in recipe"
