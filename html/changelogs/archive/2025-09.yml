@@ -228,3 +228,8 @@
   LofiOtter:
   - rscadd: Added Irish, Scottish, Welsh; ported Korean, Persian, Armenian, and Tagalog
       as language merits.
+  Marshmellow105:
+  - map: moved the anarch bar to the west side of the map near the graveyard/endron
+      processing plant and placed shops/apartments where it used to go
+  - map: hopefully fixed suicide by car accident rates around the mall
+  - map: added one window to the northwestern gio apartment
