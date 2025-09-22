@@ -224,3 +224,7 @@
 2025-09-21:
   SoreYew:
   - rscdel: "ss and nazi onfloor sprites \U0001F480"
+2025-09-22:
+  LofiOtter:
+  - rscadd: Added Irish, Scottish, Welsh; ported Korean, Persian, Armenian, and Tagalog
+      as language merits.
