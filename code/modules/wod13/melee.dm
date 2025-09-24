@@ -285,7 +285,7 @@
 
 /obj/item/melee/vampirearms/sabre/Initialize()
 	. = ..()
-	AddComponent(/datum/component/selling, 1200, "spear", FALSE)
+	AddComponent(/datum/component/selling, 200, "spear", FALSE)
 
 
 /obj/item/melee/vampirearms/longsword/keeper
