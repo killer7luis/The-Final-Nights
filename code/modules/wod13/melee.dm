@@ -272,7 +272,7 @@
 	throwforce = 10
 	w_class = WEIGHT_CLASS_BULKY
 	block_chance = 20
-	armour_penetration = 50
+	armour_penetration = 60
 	sharpness = SHARP_POINTY
 	attack_verb_continuous = list("stabs", "pokes")
 	attack_verb_simple = list("stab", "poke")
