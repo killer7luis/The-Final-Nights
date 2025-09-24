@@ -897,7 +897,7 @@ VENTORY!
 
 /obj/item/melee/vampirearms/spear
 	grid_width = 2 GRID_BOXES
-	grid_height = 6 GRID_BOXES
+	grid_height = 9 GRID_BOXES
 
 /obj/item/melee/vampirearms/baseball
 	grid_width = 3 GRID_BOXES
