@@ -268,7 +268,7 @@
 	icon = 'code/modules/wod13/weapons.dmi'
 	icon_state = "spearwaw"
 	flags_1 = CONDUCT_1
-	force = 40
+	force = 45
 	throwforce = 10
 	w_class = WEIGHT_CLASS_BULKY
 	slot_flags = ITEM_SLOT_BACK
