@@ -271,6 +271,7 @@
 	force = 40
 	throwforce = 10
 	w_class = WEIGHT_CLASS_BULKY
+	slot_flags = ITEM_SLOT_BACK
 	block_chance = 20
 	armour_penetration = 60
 	sharpness = SHARP_POINTY
