@@ -205,7 +205,7 @@ SUBSYSTEM_DEF(carpool)
 			if(!repairing)
 				repairing = TRUE
 				if(do_mob(user, src, 20 SECONDS))
-					var/roll = rand(1, 20) + (user.get_total_lockpicking()+user.get_total_dexterity()) - 8
+					var/roll = rand(1, 20) + (user.st_get_stat(STAT_LARCENY)+user.st_get_stat(STAT_DEXTERITY)) - 8
 					//(<= 1, break lockpick) (2-9, trigger car alarm), (>= 10, unlock car)
 					if (roll <= 1)
 						to_chat(user, "<span class='warning'>Your lockpick broke!</span>")
@@ -670,6 +670,14 @@ SUBSYSTEM_DEF(carpool)
 	dir = WEST
 	baggage_limit = 45
 
+/obj/vampire_car/endroncar
+	icon_state = "endron"
+	max_passengers = 4
+	dir = SOUTH
+	access = "pentex"
+	baggage_limit = 45
+	baggage_max = WEIGHT_CLASS_BULKY
+
 /obj/vampire_car/limousine/giovanni
 	icon_state = "giolimo"
 	max_passengers = 6
@@ -765,6 +773,15 @@ SUBSYSTEM_DEF(carpool)
 	max_passengers = 6
 	dir = WEST
 	access = "none"
+	baggage_limit = 100
+	baggage_max = WEIGHT_CLASS_BULKY
+	component_type = /datum/component/storage/concrete/vtm/car/track
+
+/obj/vampire_car/endrontruck
+	icon_state = "endrontruck"
+	max_passengers = 6
+	dir = WEST
+	access = "pentex"
 	baggage_limit = 100
 	baggage_max = WEIGHT_CLASS_BULKY
 	component_type = /datum/component/storage/concrete/vtm/car/track
