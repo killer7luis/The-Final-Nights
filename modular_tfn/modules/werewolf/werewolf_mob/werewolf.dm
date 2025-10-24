@@ -167,9 +167,8 @@
 	mob_size = MOB_SIZE_HUGE
 	butcher_results = list(/obj/item/food/meat/slab = 5)
 	limb_destroyer = 1
-	melee_damage_lower = 75
-	melee_damage_upper = 75
-	armour_penetration = 65
+	melee_damage_lower = 125
+	melee_damage_upper = 125
 	health = 450
 	maxHealth = 450
 	bodyparts = list(
@@ -245,7 +244,7 @@
 	. = ..()
 
 /datum/movespeed_modifier/crinosform
-	multiplicative_slowdown = -0.2
+	multiplicative_slowdown = -0.5
 
 /datum/movespeed_modifier/silver_slowdown
 	multiplicative_slowdown = 0.3
