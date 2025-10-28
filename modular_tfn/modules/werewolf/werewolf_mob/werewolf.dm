@@ -244,7 +244,7 @@
 	. = ..()
 
 /datum/movespeed_modifier/crinosform
-	multiplicative_slowdown = -0.5
+	multiplicative_slowdown = -0.2
 
 /datum/movespeed_modifier/silver_slowdown
 	multiplicative_slowdown = 0.3
